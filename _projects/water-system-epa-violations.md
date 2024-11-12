@@ -12,4 +12,4 @@ This research study investigates the impact of ownership type (public vs. privat
 
 ### [GitHub Repository](https://github.com/williamjowens/water-system-epa-violations)
 
-![EPA Compliance Study](../assets/images/water-system-epa-violations.png)
+![EPA Compliance Study](/assets/images/water-system-epa-violations.png)

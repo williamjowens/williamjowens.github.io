@@ -12,4 +12,4 @@ Developed an interactive Tableau dashboard to visualize and analyze hotel review
 
 ### [GitHub Repository](https://github.com/williamjowens/tableau-dashboard-hotel-reviews)
 
-![Tableau Dashboard](../assets/images/tableau-dashboard-hotel-reviews.png)
+![Tableau Dashboard](/assets/images/tableau-dashboard-hotel-reviews.png)

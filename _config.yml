@@ -7,6 +7,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Define collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 # Navigation Links
 navigation:
   - title: "Home"
@@ -15,5 +21,3 @@ navigation:
     url: "/projects/"
   - title: "About"
     url: "/about/"
-  - title: "Contact"
-    url: "/contact/"

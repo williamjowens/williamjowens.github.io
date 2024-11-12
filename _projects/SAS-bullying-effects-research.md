@@ -12,4 +12,4 @@ This research study explores the relationship between bullying and youth suicida
 
 ### [GitHub Repository](https://github.com/williamjowens/SAS-bullying-effects-research)
 
-![Bullying Effects Research](../assets/images/SAS-bullying-effects-research.png)
+![Bullying Effects Research](/assets/images/SAS-bullying-effects-research.png)
