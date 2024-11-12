@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: project
 title: "Effect of Bullying on Youth Suicidality"
 date: 2024-11-10
 categories: projects
@@ -12,4 +12,4 @@ This research study explores the relationship between bullying and youth suicida
 
 ### [GitHub Repository](https://github.com/williamjowens/SAS-bullying-effects-research)
 
-![Bullying Effects Research](/assets/images/SAS-bullying-effects-research.png)
+[![Bullying Effects Research](/assets/images/SAS-bullying-effects-research.png)](https://github.com/williamjowens/SAS-bullying-effects-research)

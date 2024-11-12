@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: project
 title: "Hotel Reviews Tableau Dashboard"
 date: 2024-11-10
 categories: projects
@@ -12,4 +12,4 @@ Developed an interactive Tableau dashboard to visualize and analyze hotel review
 
 ### [GitHub Repository](https://github.com/williamjowens/tableau-dashboard-hotel-reviews)
 
-![Tableau Dashboard](/assets/images/tableau-dashboard-hotel-reviews.png)
+[![Tableau Dashboard](/assets/images/tableau-dashboard-hotel-reviews.png)](https://github.com/williamjowens/tableau-dashboard-hotel-reviews)

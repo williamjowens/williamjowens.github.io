@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: project
 title: "Customer Churn Analysis"
 date: 2024-11-10
 categories: projects
@@ -12,4 +12,4 @@ Conducted a comprehensive customer churn analysis using clustering and classific
 
 ### [GitHub Repository](https://github.com/williamjowens/project-notebooks/tree/main/churn-analysis-classification)
 
-![Customer Churn Analysis](/assets/images/churn-analysis-classification.png)
+[![Customer Churn Analysis](/assets/images/churn-analysis-classification.png)](https://github.com/williamjowens/project-notebooks/tree/main/churn-analysis-classification)
