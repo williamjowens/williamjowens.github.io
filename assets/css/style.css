@@ -1,3 +1,4 @@
+/* General Styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -7,7 +8,7 @@ body {
 
 header {
   background-color: #333;
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 nav ul {
@@ -19,12 +20,13 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 15px;
+  margin: 0 20px;
 }
 
 nav ul li a {
   color: #fff;
   text-decoration: none;
+  font-size: 1.1em;
   font-weight: bold;
 }
 
@@ -33,48 +35,50 @@ nav ul li a:hover {
 }
 
 main {
-  padding: 20px;
-  max-width: 1000px;
+  padding: 40px 20px;
+  max-width: 1200px;
   margin: auto;
   background-color: #fff;
 }
 
 footer {
   text-align: center;
-  padding: 10px 0;
+  padding: 20px 0;
   background-color: #333;
   color: #fff;
-  position: fixed;
-  width: 100%;
-  bottom: 0;
 }
 
+/* Projects Section */
 .projects-container {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  flex-direction: column;
+  gap: 40px;
 }
 
 .project-item {
-  width: 45%;
-  margin-bottom: 30px;
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-.project-item img {
-  max-width: 100%;
-  height: auto;
-  cursor: pointer;
+.project-image {
+  width: 300px; /* Uniform width */
+  height: 200px; /* Uniform height */
+  object-fit: cover; /* Ensure image covers the set dimensions without distortion */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-.project-item img:hover {
+.project-image:hover {
   transform: scale(1.05);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
 }
 
-.project-item h2 {
-  margin-top: 10px;
-  font-size: 1.2em;
-  color: #333;
+.project-description {
+  margin-top: 15px;
+  font-size: 1em;
+  color: #555;
+  text-align: center;
+  max-width: 800px;
 }

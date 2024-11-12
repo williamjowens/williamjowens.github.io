@@ -4,20 +4,13 @@ baseurl: "" # Leave empty unless deploying to a subpath
 url: "https://williamjowens.github.io" # GitHub Pages URL
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
-# Define collections
+# Define collections (if any)
 collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
+  # No collections needed since projects are on the homepage
 
 # Navigation Links
 navigation:
   - title: "Home"
     url: "/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "About"
-    url: "/about/"
