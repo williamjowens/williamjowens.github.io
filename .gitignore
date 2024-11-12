@@ -1,5 +1,35 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# macOS system files
+.DS_Store
+
+# Jekyll generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata/
+vendor/
+
+# Bundler
+.bundle/
+
+# Ruby specific
+*.gem
+.ruby-version
+.ruby-gemset
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Editor specific
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Python virtual environments (if applicable)
+venv/
