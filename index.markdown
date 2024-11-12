@@ -38,9 +38,9 @@ Here are some of the projects I've worked on:
     </p>
   </div>
   
-  <!-- 3. Churn Analysis Classification -->
+  <!-- 3. Customer Churn Analysis -->
   <div class="project-item">
-    <h2>Churn Analysis Classification</h2>
+    <h2>Customer Churn Analysis</h2>
     <a href="https://github.com/williamjowens/project-notebooks/tree/main/churn-analysis-classification" target="_blank">
       <img src="/assets/images/churn-analysis-classification.png" alt="Customer Churn Analysis" class="project-image" loading="lazy">
     </a>
