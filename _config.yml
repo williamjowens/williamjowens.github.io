@@ -1,14 +1,12 @@
-title: "William J. Owens' Portfolio"
+title: "William J. Owens"
 description: "Data Professional showcasing projects and skills."
 baseurl: "" # Leave empty unless deploying to a subpath
-url: "https://williamjowens.github.io" # GitHub Pages URL
-theme: minima
+url: "https://williamjowens.github.io" # Your GitHub Pages URL
+
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-seo-tag
-
-# Define collections (if any)
-collections:
-  # No collections needed since projects are on the homepage
 
 # Navigation Links
 navigation:
