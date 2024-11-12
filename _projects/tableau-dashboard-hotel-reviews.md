@@ -1,7 +1,9 @@
 ---
-layout: project
+layout: single
 title: "Hotel Reviews Tableau Dashboard"
-date: 2024-08-05
+date: 2024-11-10
+categories: projects
+permalink: /projects/tableau-dashboard-hotel-reviews/
 ---
 
 ## Overview

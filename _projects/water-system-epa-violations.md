@@ -1,7 +1,9 @@
 ---
-layout: project
+layout: single
 title: "Effect of Ownership Type on EPA Compliance of California Water Systems"
-date: 2024-04-25
+date: 2024-11-10
+categories: projects
+permalink: /projects/water-system-epa-violations/
 ---
 
 ## Overview

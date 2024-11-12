@@ -1,7 +1,9 @@
 ---
-layout: project
+layout: single
 title: "Customer Churn Analysis"
-date: 2024-06-15
+date: 2024-11-10
+categories: projects
+permalink: /projects/churn-analysis-classification/
 ---
 
 ## Overview

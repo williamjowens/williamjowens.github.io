@@ -1,7 +1,9 @@
 ---
-layout: project
-title: "Gunshot Detection Application"
-date: 2024-05-10
+layout: single
+title: "Active Shooter Detection App"
+date: 2024-11-10
+categories: projects
+permalink: /projects/active-shooter-detection-app/
 ---
 
 ## Overview

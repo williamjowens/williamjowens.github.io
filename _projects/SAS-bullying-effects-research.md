@@ -1,7 +1,9 @@
 ---
-layout: project
+layout: single
 title: "Effect of Bullying on Youth Suicidality"
-date: 2024-07-20
+date: 2024-11-10
+categories: projects
+permalink: /projects/SAS-bullying-effects-research/
 ---
 
 ## Overview
