@@ -1,6 +1,8 @@
+/* assets/css/style.css */
+
 /* General Styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f0f4f8;
@@ -52,13 +54,13 @@ footer {
 
 /* Header Title */
 h1 {
-  font-size: 3em;
+  font-size: 3.5em; /* Larger font for name */
   text-align: center;
   margin-bottom: 10px;
 }
 
 h2 {
-  font-size: 1.8em;
+  font-size: 1.8em; /* Section headers */
   color: #2c3e50;
   margin-bottom: 10px;
 }
@@ -92,9 +94,9 @@ h2 {
 }
 
 .project-image {
-  width: 300px;
-  height: 200px;
-  object-fit: cover;
+  width: 300px; /* Uniform width */
+  height: 200px; /* Uniform height */
+  object-fit: cover; /* Maintain aspect ratio */
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s, box-shadow 0.2s;
@@ -129,11 +131,11 @@ h2 {
   }
   
   h1 {
-    font-size: 2.5em;
+    font-size: 2.5em; /* Adjust name size for smaller screens */
   }
   
   h2 {
-    font-size: 1.5em;
+    font-size: 1.5em; /* Adjust section headers for smaller screens */
   }
   
   main {

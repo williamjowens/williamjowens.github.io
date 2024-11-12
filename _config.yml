@@ -1,9 +1,12 @@
+# _config.yml
+
 title: "William J. Owens"
 description: "Data Professional showcasing projects and skills."
 baseurl: "" # Leave empty unless deploying to a subpath
 url: "https://williamjowens.github.io" # Your GitHub Pages URL
 
-theme: jekyll-theme-cayman
+# Switch to Dinky theme
+theme: jekyll-theme-dinky
 
 plugins:
   - jekyll-seo-tag
