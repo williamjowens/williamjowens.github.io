@@ -1,0 +1,19 @@
+title: "William J. Owens' Portfolio"
+description: "Data Professional showcasing projects and skills."
+baseurl: "" # Leave empty unless deploying to a subpath
+url: "https://williamjowens.github.io" # GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation Links
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
