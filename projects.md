@@ -4,12 +4,12 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# My Projects
+# Projects
 
-Here are some of my data analysis and data science projects:
+Here are some of the projects I've worked on:
 
-- [Effect of Ownership Type on EPA Compliance of California Water Systems](./_projects/water-system-epa-violations.md)
-- [Gunshot Detection Application](./_projects/active-shooter-detection-app.md)
-- [Customer Churn Analysis](./_projects/churn-analysis-classification.md)
-- [Effect of Bullying on Youth Suicidality](./_projects/SAS-bullying-effects-research.md)
-- [Hotel Reviews Tableau Dashboard](./_projects/tableau-dashboard-hotel-reviews.md)
+- [Active Shooter Detection App](/projects/active-shooter-detection-app/)
+- [SAS Bullying Effects Research](/projects/sas-bullying-effects-research/)
+- [Churn Analysis Classification](/projects/churn-analysis-classification/)
+- [Tableau Dashboard for Hotel Reviews](/projects/tableau-dashboard-hotel-reviews/)
+- [Water System EPA Violations](/projects/water-system-epa-violations/)
