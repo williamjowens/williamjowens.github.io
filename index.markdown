@@ -45,7 +45,7 @@ Here are some of the projects I've worked on:
       <img src="/assets/images/churn-analysis-classification.png" alt="Customer Churn Analysis" class="project-image" loading="lazy">
     </a>
     <p class="project-description">
-      Conducted a comprehensive customer churn analysis using clustering and classification algorithms to identify patterns and predict customer attrition.
+      Conducted a comprehensive customer churn analysis in Python, using clustering and classification algorithms to identify patterns and predict customer attrition.
     </p>
   </div>
   
