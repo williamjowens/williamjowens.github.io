@@ -114,13 +114,13 @@ h2 {
 }
 
 /* Footer Link Styles */
-footer p a {
+footer .footer-link {
   color: #f1c40f; /* Bright yellow color for better visibility */
   text-decoration: none; /* Remove underline */
   transition: color 0.3s ease; /* Smooth transition on hover */
 }
 
-footer p a:hover {
+footer .footer-link:hover {
   color: #d4ac0d; /* Darker yellow on hover */
   text-decoration: underline; /* Underline on hover */
 }
