@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "William J. Owens"
+title: "Portfolio Projects"
 permalink: /
 ---
 
