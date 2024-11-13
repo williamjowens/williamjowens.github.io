@@ -12,7 +12,7 @@ Hello! I'm William Owens, a dedicated Data Analyst/Scientist with a passion for 
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Click on an image to be taken to the project repository:
 
 <div class="projects-container">
   
@@ -23,7 +23,7 @@ Here are some of the projects I've worked on:
       <img src="/assets/images/water-system-epa-violations.png" alt="Effect of Ownership Type on EPA Compliance" class="project-image" loading="lazy">
     </a>
     <p class="project-description">
-      This study investigates the impact of public versus private ownership on the EPA regulatory compliance of California water systems. Python and R are used to build statistical and machine learning models that account for group-level differences.
+      This study investigated the impact of public versus private ownership on the EPA regulatory compliance of California water systems. Python and R were used to build statistical and machine learning models that account for group-level differences in the longitudinal panel data. Multilevel Negative Binomial Mixed Effects models were utilized to address the research question. A feature importance analysis was also conducted with a Mixed Effects Gradient Boosting Tree model.
     </p>
   </div>
   
@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
       <img src="/assets/images/active-shooter-detection-app.png" alt="Active Shooter Detection App" class="project-image" loading="lazy">
     </a>
     <p class="project-description">
-      Developed a gunshot detection application using Python, Flask, AWS SageMaker, and hosted on Heroku, enabling accurate identification of gunshot sounds from audio data.
+      Developed a gunshot detection application using Python, Flask, AWS SageMaker, and hosted on Heroku, enabling accurate identification of gunshot sounds from audio data. Feature engineering techniques were used extensively to extract meaningful features from raw audio data for the Keras Neural Network model.
     </p>
   </div>
   
@@ -45,7 +45,7 @@ Here are some of the projects I've worked on:
       <img src="/assets/images/churn-analysis-classification.png" alt="Customer Churn Analysis" class="project-image" loading="lazy">
     </a>
     <p class="project-description">
-      Conducted a comprehensive customer churn analysis in Python, using clustering and classification algorithms to identify patterns and predict customer attrition.
+      Conducted a comprehensive customer churn analysis in Python, using clustering algorithms such as K-Means, K-Prototypes, and K-Medoids to identify patterns and classification algorithms to predict customer attrition. A Histogram-based Gradient Boosting Tree model was found to be the best predictive model based on ROC-AUC score and other relevant metrics.
     </p>
   </div>
   
@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
       <img src="/assets/images/SAS-bullying-effects-research.png" alt="Effect of Bullying on Youth Suicidality" class="project-image" loading="lazy">
     </a>
     <p class="project-description">
-      Explored the relationship between bullying and youth suicidality, using SAS for data analysis and modeling. The study shows insights into the psychological impacts of bullying among U.S. high school students.
+      Explored the relationship between bullying and youth suicidality, using SAS for data wrangling and logistic regression modeling. The study revealed insights into the negative psychological impacts of bullying for U.S. high school students. Other risk factors and interaction effects were also analyzed.
     </p>
   </div>
   

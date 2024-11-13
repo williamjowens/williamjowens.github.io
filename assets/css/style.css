@@ -127,28 +127,4 @@ footer .footer-link:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .project-image {
-    width: 90%;
-    height: auto;
-  }
-  
-  nav ul {
-    flex-direction: column;
-  }
-  
-  nav ul li {
-    margin: 10px 0;
-  }
-  
-  h1 {
-    font-size: 2.5em; /* Adjust name size for smaller screens */
-  }
-  
-  h2 {
-    font-size: 1.5em; /* Adjust section headers for smaller screens */
-  }
-  
-  main {
-    padding: 20px 10px;
-  }
-}
+  .project-image
