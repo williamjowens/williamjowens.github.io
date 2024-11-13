@@ -70,5 +70,16 @@ Here are some of the projects I've worked on:
       Created an interactive Tableau dashboard to analyze and visualize hotel review data, offering actionable insights into customer satisfaction and areas for improvement.
     </p>
   </div>
+
+  <!-- 6. Excel Dashboard for Milk Tea Sales -->
+  <div class="project-item">
+    <h2>Excel Dashboard for Milk Tea Sales</h2>
+    <a href="https://github.com/williamjowens/excel-dashboard-milk-tea-sales" target="_blank">
+      <img src="/assets/images/excel-dashboard-milk-tea-sales.png" alt="Milk Tea Sales Excel Dashboard" class="project-image" loading="lazy">
+    </a>
+    <p class="project-description">
+      Created an interactive Excel dashboard to analyze and visualize milk tea sales data, revealing product-related and customer-related insights and sales performance over time.
+    </p>
+  </div>
   
 </div>
